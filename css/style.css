@@ -1,0 +1,6 @@
+p {
+  background-color: lightcoral;
+  display: flex;
+  justify-content: center;
+  font-size: 72px;
+  color: white; }
